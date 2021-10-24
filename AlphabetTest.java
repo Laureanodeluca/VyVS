@@ -49,4 +49,4 @@ public class AlphabetTest {
 		char inverse_upper = alphabet.inverse('R');
 		assertEquals(inverse_upper, 'r');
 	}
-	}
+}
