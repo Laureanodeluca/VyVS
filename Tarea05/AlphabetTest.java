@@ -4,6 +4,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+* IMPORTANTE: Usar JUnit 4 para usar este tester.
+**/
 public class AlphabetTest {
 
 	private Alphabet alphabet = new Alphabet();
