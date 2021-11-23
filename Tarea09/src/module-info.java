@@ -1,0 +1,3 @@
+module VyVS {
+	requires junit;
+}
